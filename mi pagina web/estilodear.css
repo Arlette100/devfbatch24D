@@ -1,5 +1,25 @@
-h1 {color: rgb(64, 59, 77); font-family: cursive;
+h1 {color: rgb(69, 127, 235); font-size: xx-large; font-style: oblique;
 }
 # {float: inline-start;}
-footer { text-align: center;
+footer { 
+    margin: 300px;
+    text-align: center;
 }
+button{
+    padding: 15px;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: right;
+
+}
+#list ul li a{
+    display: inline-block;
+    text-decoration: none;
+}
+#p {
+    margin: 100px;
+    font-size: larger;
+    font-style: oblique;
+    
+}
+
