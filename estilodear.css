@@ -1,0 +1,61 @@
+
+#ar {
+    color: rgb(123, 98, 126); 
+    font-size: 3.00em;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: serif;
+    text-align: center;
+
+
+}
+#nu {
+    font-size: 1.9em;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: serif;
+    color: rgb(110, 63, 92);
+}
+# {float: inline-start;
+}
+footer { 
+    margin: 300px;
+    text-align: center;
+}
+button{
+    padding: 15px;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: right;
+    background-color: gray;
+
+}
+
+#par {
+    margin: 100px;
+    font-size: larger;
+    font-style: oblique;
+    font-variant: small-caps;
+}
+#para {
+   text-align-last: auto;
+   font-style: italic;
+   font-size: 1.2em ;
+   background-color: rgb(123, 98, 126);
+   
+ }
+::marker {
+    color: rgb(110, 63, 92);
+    font-size: 1.5em;
+}
+#back {
+    background-image: url(backgroundar.jpg);
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+
+}
+a {
+    background-color: rgb(110, 63, 92); 
+    color: rgb(252, 249, 252);
+}
